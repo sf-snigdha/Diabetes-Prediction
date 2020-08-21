@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-In this project I will be using Machine Learning techniques to predict whether any person is suffering from Diabetes
+In this project I will be using Machine Learning techniques to predict whether any person is suffering from Diabetes with 3 algorithms- KNeighborsClassifier DecisionTreeClassifier RandomForestClassifier 
 
 In this machine learning project, I have collected the dataset from Kaggle  and I will be using Machine Learning to predict whether any person is suffering from Diabetes.
 
